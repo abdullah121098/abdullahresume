@@ -17,7 +17,7 @@ import {
 import Typewriter from "typewriter-effect";
 import { Bio } from "../../data/constants";
 import { Box, Button } from "@mui/material";
-import { download } from "../../../Assets/Download/Download";
+import { download } from "../../data/Download/Download";
 
 const HeroSection = () => {
   return (
