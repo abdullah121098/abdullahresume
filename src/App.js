@@ -13,7 +13,7 @@ import Footer from "./components/Footer";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
-import Certificate from "./components/Cetificates";
+// import Certificate from "./components/Cetificates";
 import styled from "styled-components";
 
 const Body = styled.div`
@@ -53,7 +53,7 @@ function App() {
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
-            <Certificate openModal={openModal} setOpenModal={setOpenModal} />
+            {/* <Certificate openModal={openModal} setOpenModal={setOpenModal} /> */}
             <Contact />
           </Wrapper>
           <Footer />
