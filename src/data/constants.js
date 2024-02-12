@@ -22,7 +22,7 @@ export const Bio = {
     I am ready to make a meaningful contribution and achieve great things.`,
   github: "https://github.com/abdullah121098",
   resume: CV,
-  // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in//abdullah-m-aa43801a5/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
   // facebook: "https://www.facebook.com/rishav.chanda.165/",
@@ -266,7 +266,6 @@ export const Certificate = [
     tags: [""],
     category: "Certificate",
     hackerRank: "https://www.hackerrank.com/certificates/e27333981b27",
-    // github: "https://github.com/rishavchanda/Project-Management-App",
     webapp: "https://www.hackerrank.com/profile/abdullah_bca98",
   },
 ];
